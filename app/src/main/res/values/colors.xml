@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorLogin">#dbdbdc</color>
+    <color name="fontLogin">#333333</color>
+    <color name="fontExtend">#646464</color>
+    <color name="forgotpass">#979797</color>
+    <color name="bgUsernameAndPass">#f3f3f3</color>
+    <color name="strokeBgUseNPass">#dcdcdc</color>
+    <color name="bgAll">#FFF8F8</color>
 </resources>
